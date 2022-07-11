@@ -1,0 +1,17 @@
+C:\Users\Troy Stokes\Desktop\TheCocktailDB\CocktailDB\bin\Debug\CocktailDB.exe.config
+C:\Users\Troy Stokes\Desktop\TheCocktailDB\CocktailDB\bin\Debug\CocktailDB.exe
+C:\Users\Troy Stokes\Desktop\TheCocktailDB\CocktailDB\bin\Debug\CocktailDB.pdb
+C:\Users\Troy Stokes\Desktop\TheCocktailDB\CocktailDB\obj\Debug\CocktailDB.csprojAssemblyReference.cache
+C:\Users\Troy Stokes\Desktop\TheCocktailDB\CocktailDB\obj\Debug\CocktailDB.csproj.CoreCompileInputs.cache
+C:\Users\Troy Stokes\Desktop\TheCocktailDB\CocktailDB\obj\Debug\CocktailDB.exe
+C:\Users\Troy Stokes\Desktop\TheCocktailDB\CocktailDB\obj\Debug\CocktailDB.pdb
+C:\Users\Kameshni\source\repos\TheCocktailDB\CocktailDB\bin\Debug\CocktailDB.exe.config
+C:\Users\Kameshni\source\repos\TheCocktailDB\CocktailDB\bin\Debug\CocktailDB.exe
+C:\Users\Kameshni\source\repos\TheCocktailDB\CocktailDB\bin\Debug\CocktailDB.pdb
+C:\Users\Kameshni\source\repos\TheCocktailDB\CocktailDB\obj\Debug\CocktailDB.csprojAssemblyReference.cache
+C:\Users\Kameshni\source\repos\TheCocktailDB\CocktailDB\obj\Debug\CocktailDB.csproj.CoreCompileInputs.cache
+C:\Users\Kameshni\source\repos\TheCocktailDB\CocktailDB\obj\Debug\CocktailDB.exe
+C:\Users\Kameshni\source\repos\TheCocktailDB\CocktailDB\obj\Debug\CocktailDB.pdb
+C:\Users\Kameshni\source\repos\TheCocktailDB\CocktailDB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kameshni\source\repos\TheCocktailDB\CocktailDB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kameshni\source\repos\TheCocktailDB\CocktailDB\obj\Debug\CocktailDB.csproj.CopyComplete
